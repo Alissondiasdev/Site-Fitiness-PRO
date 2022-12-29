@@ -6,7 +6,7 @@ Site de academia responsivo com html e css.
 | -------------  | --- |
 | :sparkles: Nome        | **Site fitness PRO**
 | :label: Tecnologias |  html, css
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | https://alissondiasdev.github.io/Site-Fitiness-PRO/
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
