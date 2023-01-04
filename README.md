@@ -10,12 +10,18 @@ Site de academia responsivo com html e css.
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![200710429-14187006-74ff-44b0-85f0-fad48eb181cb](https://user-images.githubusercontent.com/84820359/209970456-97f38120-24a5-4e49-b9c8-59d7636be143.png#vitrinedev)
+Tela de computador
+
+![fitness-pro desktop1](https://user-images.githubusercontent.com/84820359/210550603-0750eebe-6302-40dc-bf6c-b36a35b8ba75.gif#vitrinedev)
+
+Tela de celular
+
+![fitness-pro celular](https://user-images.githubusercontent.com/84820359/210550774-2dc576cb-dc21-40ac-a173-816a039ad69a.gif#vitrinedev)
 
 
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+O projeto tem como base um site de academia moderno e responsivo feito com html e css eu adicionei estilos específicos para telas de tamanho pequeno (até 425px), médio (até 768px) e grande (até 1200px), utilizando "media queries".
 
 
